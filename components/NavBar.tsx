@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-
 import WalletIcon from "../public/icons/WalletIcon";
 
 import { Button } from "./ui/button";
